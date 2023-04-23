@@ -3,12 +3,12 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
+  name: "我的个人博客"
   text: "A VitePress Site"
   tagline: My great project tagline
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: Java
       link: /markdown-examples
     - theme: alt
       text: API Examples

@@ -9,10 +9,10 @@ hero:
   actions:
     - theme: brand
       text: 后端
-      link: Java/Maven
+      link: /Maven
     - theme: alt
       text: 前端
-      link: Vue/vue3.md
+      link: /vue3
 
 features:
   - title: Feature A

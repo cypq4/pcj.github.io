@@ -3,15 +3,15 @@
 layout: home
 
 hero:
-  name: "我的个人博客"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "划水博客"
+  text: ""
+  tagline: 项目分块
   actions:
     - theme: brand
-      text: Java
+      text: 后端
       link: /markdown-examples
     - theme: alt
-      text: API Examples
+      text: 前端
       link: /api-examples
 
 features:

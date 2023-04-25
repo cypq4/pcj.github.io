@@ -11,7 +11,8 @@
 >特点:由JAVA编写;将一个项目看作是一个对象,需要XML文件对项目信息进行描述
 > ,由maven加载配置文件获取项目信息       
 > 作用:       
-> <img src="Maven_function.png">
+
+[//]: # (> <img src="Maven_function.png">)
 ## 基本概念
 ## 仓库
   - **仓库**:用于存储资源,管理各种jar包,而存放jar包的地方就叫仓库

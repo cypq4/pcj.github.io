@@ -30,6 +30,14 @@ export default defineConfig({
         ]
       },
       {
+        text: '算法',
+        collapsed:true,//导航栏折叠
+        items: [
+          { text: '', link: '' },
+          // { text: 'Runtime API Examples', link: '/api-examples' }
+        ]
+      },
+      {
         text: '例子',
         collapsed:true,//导航栏折叠
         items: [

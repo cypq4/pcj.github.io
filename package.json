@@ -1,6 +1,12 @@
 {
   "devDependencies": {
+    "@rollup/plugin-alias": "^5.0.0",
     "vitepress": "^1.0.0-alpha.73"
+  },
+  "peerDependencies": {
+    "vite": "^2.0.0",
+    "workbox-build": "^6.4.0",
+    "workbox-window": "^6.4.0"
   },
   "scripts": {
     "docs:dev": "vitepress dev",

@@ -1,5 +1,5 @@
 import { defineConfig } from 'vitepress'
-import alias from '@rollup/plugin-alias';
+
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base:'/pcj.github.io/',

@@ -1,10 +1,12 @@
 import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
+// @ts-ignore
 export default defineConfig({
   base:'/pcj.github.io/',
   title: "划水专业",
   description: "A VitePress Site",
+
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -51,3 +53,10 @@ export default defineConfig({
     ]
   }
 })
+build:{
+  rollupOptions:{
+    external:[
+      "element-plus",
+    ]
+  }
+}

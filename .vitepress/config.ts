@@ -53,10 +53,4 @@ export default defineConfig({
     ]
   }
 })
-build:{
-  rollupOptions:{
-    external:[
-      "element-plus",
-    ]
-  }
-}
+
